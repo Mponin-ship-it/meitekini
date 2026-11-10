@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Andrew 👋</h1>
+
+<h1 align="center">Hey, I'm Meitekini 👋</h1>
 
 <p align="center">
   Backend engineer → growing into <b>ML engineering</b><br>
@@ -37,7 +38,9 @@ This account is where I'm taking the next step: **building ML skills in public, 
 **Applied AI:** OpenAI & Anthropic APIs · RAG · Chroma · pgvector · async streaming
 **Integrations:** Stripe · M-Pesa
 
-## 🗺️ ML roadmap (free resources)
+## 🗺️ ML roadmap (free resources, failure-first)
+
+No certificates. I learn by building projects, then breaking them on purpose and logging every bug, error and bad result in a public **failure log**. Full plan in [ROADMAP.md](./ROADMAP.md) (move it into your `ml-journey` repo).
 
 - [ ] NumPy, pandas, Matplotlib
 - [ ] Math essentials: linear algebra, probability, calculus intuition
@@ -52,7 +55,7 @@ This account is where I'm taking the next step: **building ML skills in public, 
 | Platform | Goal | Progress |
 |----------|------|----------|
 | Advent of Code | Finish a full year | 🔜 |
-| Hackerank | Steady daily/weekly solves | 🔜 |
+| LeetCode | Steady daily/weekly solves | 🔜 |
 | Kaggle | Competitions + notebooks | 🔜 |
 
 _Solutions will live in a `puzzles/` repo._
@@ -64,13 +67,10 @@ _Coming soon. First pins will be a puzzle-solutions repo and a small ML project.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mponin-ship-it&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mponin-ship-it&layout=compact&hide_border=true" />
 </p>
 
-## 📫 Reach me
 
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andrewmponin@gmail.com)
 
 <p align="center"><i>Learning in public. Commits over perfection.</i> ✨</p>
